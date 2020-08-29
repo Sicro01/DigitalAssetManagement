@@ -1,0 +1,9 @@
+C:\Users\simon\Documents\c#_projects\Simon.DigitalAssetManagement\Simon.DigitalAssetManagement\Simon.DigitalAssetManagement.Domain\bin\Debug\netcoreapp3.1\Simon.DigitalAssetManagement.Domain.deps.json
+C:\Users\simon\Documents\c#_projects\Simon.DigitalAssetManagement\Simon.DigitalAssetManagement\Simon.DigitalAssetManagement.Domain\bin\Debug\netcoreapp3.1\Simon.DigitalAssetManagement.Domain.dll
+C:\Users\simon\Documents\c#_projects\Simon.DigitalAssetManagement\Simon.DigitalAssetManagement\Simon.DigitalAssetManagement.Domain\bin\Debug\netcoreapp3.1\Simon.DigitalAssetManagement.Domain.pdb
+C:\Users\simon\Documents\c#_projects\Simon.DigitalAssetManagement\Simon.DigitalAssetManagement\Simon.DigitalAssetManagement.Domain\obj\Debug\netcoreapp3.1\Simon.DigitalAssetManagement.Domain.csprojAssemblyReference.cache
+C:\Users\simon\Documents\c#_projects\Simon.DigitalAssetManagement\Simon.DigitalAssetManagement\Simon.DigitalAssetManagement.Domain\obj\Debug\netcoreapp3.1\Simon.DigitalAssetManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\simon\Documents\c#_projects\Simon.DigitalAssetManagement\Simon.DigitalAssetManagement\Simon.DigitalAssetManagement.Domain\obj\Debug\netcoreapp3.1\Simon.DigitalAssetManagement.Domain.AssemblyInfo.cs
+C:\Users\simon\Documents\c#_projects\Simon.DigitalAssetManagement\Simon.DigitalAssetManagement\Simon.DigitalAssetManagement.Domain\obj\Debug\netcoreapp3.1\Simon.DigitalAssetManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\simon\Documents\c#_projects\Simon.DigitalAssetManagement\Simon.DigitalAssetManagement\Simon.DigitalAssetManagement.Domain\obj\Debug\netcoreapp3.1\Simon.DigitalAssetManagement.Domain.dll
+C:\Users\simon\Documents\c#_projects\Simon.DigitalAssetManagement\Simon.DigitalAssetManagement\Simon.DigitalAssetManagement.Domain\obj\Debug\netcoreapp3.1\Simon.DigitalAssetManagement.Domain.pdb

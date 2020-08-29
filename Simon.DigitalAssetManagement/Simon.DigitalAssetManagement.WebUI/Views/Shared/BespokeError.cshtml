@@ -1,0 +1,27 @@
+﻿@{
+    ViewData["Title"] = "Bespoke Dev Application Error";
+}
+
+<h1>Application Error</h1>
+<h5>Contact support on support@nowhere.com</h5>
+<hr/>
+<br/>
+
+<h3>Exception Details</h3>
+<div class="alert alert-danger">
+    <h5>Exception Path</h5>
+    <hr/>
+    <p>@ViewData["ExceptionPath"]</p>
+</div>
+
+<div class="alert alert-danger">
+    <h5>Exception Path</h5>
+    <hr />
+    <p>@ViewData["ExceptionMessage"]</p>
+</div>
+
+<div class="alert alert-danger">
+    <h5>Exception Path</h5>
+    <hr />
+    <p>@ViewData["StackTrace"]</p>
+</div>

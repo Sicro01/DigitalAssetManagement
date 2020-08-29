@@ -1,0 +1,12 @@
+C:\Users\simon\Documents\c#_projects\Simon.DigitalAssetManagement\Simon.DigitalAssetManagement\Simon.DigitalAssetManagement.Application\bin\Debug\netcoreapp3.1\Simon.DigitalAssetManagement.Application.deps.json
+C:\Users\simon\Documents\c#_projects\Simon.DigitalAssetManagement\Simon.DigitalAssetManagement\Simon.DigitalAssetManagement.Application\bin\Debug\netcoreapp3.1\Simon.DigitalAssetManagement.Application.dll
+C:\Users\simon\Documents\c#_projects\Simon.DigitalAssetManagement\Simon.DigitalAssetManagement\Simon.DigitalAssetManagement.Application\bin\Debug\netcoreapp3.1\Simon.DigitalAssetManagement.Application.pdb
+C:\Users\simon\Documents\c#_projects\Simon.DigitalAssetManagement\Simon.DigitalAssetManagement\Simon.DigitalAssetManagement.Application\obj\Debug\netcoreapp3.1\Simon.DigitalAssetManagement.Application.csprojAssemblyReference.cache
+C:\Users\simon\Documents\c#_projects\Simon.DigitalAssetManagement\Simon.DigitalAssetManagement\Simon.DigitalAssetManagement.Application\obj\Debug\netcoreapp3.1\Simon.DigitalAssetManagement.Application.AssemblyInfoInputs.cache
+C:\Users\simon\Documents\c#_projects\Simon.DigitalAssetManagement\Simon.DigitalAssetManagement\Simon.DigitalAssetManagement.Application\obj\Debug\netcoreapp3.1\Simon.DigitalAssetManagement.Application.AssemblyInfo.cs
+C:\Users\simon\Documents\c#_projects\Simon.DigitalAssetManagement\Simon.DigitalAssetManagement\Simon.DigitalAssetManagement.Application\obj\Debug\netcoreapp3.1\Simon.DigitalAssetManagement.Application.dll
+C:\Users\simon\Documents\c#_projects\Simon.DigitalAssetManagement\Simon.DigitalAssetManagement\Simon.DigitalAssetManagement.Application\obj\Debug\netcoreapp3.1\Simon.DigitalAssetManagement.Application.pdb
+C:\Users\simon\Documents\c#_projects\Simon.DigitalAssetManagement\Simon.DigitalAssetManagement\Simon.DigitalAssetManagement.Application\bin\Debug\netcoreapp3.1\Simon.DigitalAssetManagement.Domain.dll
+C:\Users\simon\Documents\c#_projects\Simon.DigitalAssetManagement\Simon.DigitalAssetManagement\Simon.DigitalAssetManagement.Application\bin\Debug\netcoreapp3.1\Simon.DigitalAssetManagement.Domain.pdb
+C:\Users\simon\Documents\c#_projects\Simon.DigitalAssetManagement\Simon.DigitalAssetManagement\Simon.DigitalAssetManagement.Application\obj\Debug\netcoreapp3.1\Simon.DigitalAssetManagement.Application.csproj.CopyComplete
+C:\Users\simon\Documents\c#_projects\Simon.DigitalAssetManagement\Simon.DigitalAssetManagement\Simon.DigitalAssetManagement.Application\obj\Debug\netcoreapp3.1\Simon.DigitalAssetManagement.Application.csproj.CoreCompileInputs.cache
